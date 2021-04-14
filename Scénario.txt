@@ -1,0 +1,63 @@
+Scénario principal :
+
+1-Le visiteur accéde à la (BDD) pour voir les documents diponibles.
+
+2-Le systéme affiche les views des différents docs.
+
+3-Le visiteur click sur un doc.
+
+4-Le systéme affiche le détail du doc.
+
+5-Le visiteur veut emprunter un document.
+
+6-un Employé se connecte.
+
+7-L'employé crée un nouveau lecteur.
+
+8-Le systéme vérifie la disponibilité du document.
+
+9-L'employé Enregistre un nouvelle emprunt.
+
+10-le systéme affiche l'emprunt a bien ete enregistré
+
+
+
+
+Scénario secondaire
+
+
+
+5.1-Le visiteur veut consulter un document numérique sur place.
+
+5.2-Le systéme verifie la disponibilités des documents.
+
+5.3-Le systéme vérifie la disponibilités des écrans de lecture.
+
+----------------------------------------------------------------
+
+6.1-Un bénévole se connecte.
+
+6.2-Le bénévole verifie les infos du lecteur.
+
+6.3-le systéme affiche les infos du lecteur.
+
+6.4-Le bénévole enregistre l'emprunt.
+
+6.5-le systéme affiche l'emprunt a bien et enregistré.
+
+---------------------------------------------------------------
+
+6.2.1 - un Employé verifie les infos du leteur.
+
+6.2.2-le systéme affiche les info lecteur.
+
+6.2.3- l'Employé enregistre l'emprunt.
+
+6.2.4-Le systéme affiche la validation de l'emprunt
+
+------------------------------------------------------------------
+
+
+
+
+
