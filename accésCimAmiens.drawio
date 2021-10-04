@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T13:30:37.885Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ijbpj10DQgKSy10DrLBX" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T14:24:58.292Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Ra6hqbHlDFagt_cFMFE1" version="15.4.1" type="github" pages="2">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
-    <mxGraphModel dx="824" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
           <mxGeometry x="170" y="150" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-37" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="185" width="120" height="50" as="geometry" />
+          <mxGeometry x="870" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-82" value="Modifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="920" width="90" height="40" as="geometry" />
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-87" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="950" width="120" height="50" as="geometry" />
+          <mxGeometry x="870" y="945" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-88" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cb7AMag5DuTGzztELXbn-82" target="Cb7AMag5DuTGzztELXbn-87">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -204,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-114" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="505" width="120" height="50" as="geometry" />
+          <mxGeometry x="870" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-115" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cb7AMag5DuTGzztELXbn-109" target="Cb7AMag5DuTGzztELXbn-114">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -294,6 +294,211 @@
             <mxPoint x="640" y="230" as="sourcePoint" />
             <mxPoint x="750" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5KHZl_sxIgC_SyZ97ZIo" name="Diagramme de Séquence">
+    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-0" />
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-1" parent="QuXPynSJdBeK2pe7UBZv-0" />
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-2" value="&lt;h1&gt;Application Gestion&amp;nbsp; accés cimetières.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="290" y="10" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="750" as="sourcePoint" />
+            <mxPoint x="120" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="760" as="sourcePoint" />
+            <mxPoint x="720" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-5" value="Systéme" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="680" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-6" value="Agent Mairie" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="100" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="720" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="200" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="200" />
+              <mxPoint x="300" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-9" value="1-l&#39;acteur lance l&#39;appli" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="355" y="140" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-11" value="2- le systeme affiche la page de connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="320" y="180" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-13" value="3- l&#39;utilisateur entre ses id de connexion et clique sur connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="265" y="220" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="280" as="sourcePoint" />
+            <mxPoint x="120" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="280" />
+              <mxPoint x="300" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuXPynSJdBeK2pe7UBZv-15" value="4- le systéme vérifie les identifiants et le redirige vers la session gestion des utilisateurs carte cim." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="170" y="260" width="530" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="330" as="sourcePoint" />
+            <mxPoint x="720" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-1" value="5- l&#39;utilisateur utilise la barre de recherches pour trouver un groupe ou un individu en particulier." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="175" y="310" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="380" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="380" />
+              <mxPoint x="300" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-3" value="6- Le systéme affiche une liste d&#39;individu&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="315" y="360" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="720" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-5" value="7- L&#39;utilisateur selectionne un individu et modifie les coordonnées,affectations ou validite" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="195" y="410" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="470" as="sourcePoint" />
+            <mxPoint x="120" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="470" />
+              <mxPoint x="300" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-7" value="8- Le systéme vérifie la conformitées des valeurs&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="295" y="450" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="510" as="sourcePoint" />
+            <mxPoint x="120" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="510" />
+              <mxPoint x="300" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-9" value="9- Les valeurs sont conformes, le systéme applique les modifications dans la bdd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="210" y="490" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="550" as="sourcePoint" />
+            <mxPoint x="120" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="550" />
+              <mxPoint x="300" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-11" value="10- Le systéme affiche un message de validité&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="300" y="530" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-12" value="Scénario secondaire 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="330" y="580" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="640" as="sourcePoint" />
+            <mxPoint x="720" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-14" value="7.1- L&#39;utilisateur selectionne une liste d&#39;individus et clique sur exporter les informations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="194" y="620" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="690" as="sourcePoint" />
+            <mxPoint x="120" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="690" />
+              <mxPoint x="300" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-16" value="8.1- Le systéme exporte les informations sous un fichier excell&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="260" y="670" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114.58" y="1520" as="sourcePoint" />
+            <mxPoint x="114.58" y="880" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719.5799999999999" y="1520" as="sourcePoint" />
+            <mxPoint x="719.5799999999999" y="880" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-19" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="100" y="810" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-20" value="Systéme" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="680" y="800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
