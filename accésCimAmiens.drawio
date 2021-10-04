@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T14:24:58.292Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Ra6hqbHlDFagt_cFMFE1" version="15.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-04T14:26:41.548Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="uRjL-73ORq4iIi2CjxYw" version="15.4.1" type="github" pages="2">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
     <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KHZl_sxIgC_SyZ97ZIo" name="Diagramme de Séquence">
-    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QuXPynSJdBeK2pe7UBZv-0" />
         <mxCell id="QuXPynSJdBeK2pe7UBZv-1" parent="QuXPynSJdBeK2pe7UBZv-0" />
@@ -499,6 +499,44 @@
         </mxCell>
         <mxCell id="4WeS6umEzM71p5tvVooY-20" value="Systéme" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
           <mxGeometry x="680" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="114" y="920" as="sourcePoint" />
+            <mxPoint x="720" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="384" y="920" />
+              <mxPoint x="574" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-22" value="1-l&#39;acteur lance l&#39;appli" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="349" y="900" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="950" as="sourcePoint" />
+            <mxPoint x="110" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="950" />
+              <mxPoint x="300" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-24" value="2- le systeme affiche la page de connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="320" y="930" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="980" as="sourcePoint" />
+            <mxPoint x="720" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WeS6umEzM71p5tvVooY-26" value="3- l&#39;utilisateur entre ses id de connexion et clique sur connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="265" y="960" width="350" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
