@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T15:08:37.488Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="cTGN4Tlkrge_G1LrYOFN" version="15.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-04T15:17:14.705Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="8qVtAJxA4JIw_GUseeIR" version="15.4.1" type="github" pages="2">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
     <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KHZl_sxIgC_SyZ97ZIo" name="Diagramme de Séquence">
-    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QuXPynSJdBeK2pe7UBZv-0" />
         <mxCell id="QuXPynSJdBeK2pe7UBZv-1" parent="QuXPynSJdBeK2pe7UBZv-0" />
@@ -770,6 +770,58 @@
         </mxCell>
         <mxCell id="QsI6GUUpp1VSREZt7vYy-6" value="7.2- L&#39;utilisateur selectionne un individu et clique sur supprimer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
           <mxGeometry x="259" y="1700" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="714" y="1753" as="sourcePoint" />
+            <mxPoint x="114" y="1753" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="1753" />
+              <mxPoint x="294" y="1753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-8" value="8.2- Le systéme affiche un message d&#39;avertissement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="279" y="1733" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="115" y="1790" as="sourcePoint" />
+            <mxPoint x="715" y="1790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-10" value="9.2- L&#39;utilisateur valide" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="370" y="1770" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="714" y="1820" as="sourcePoint" />
+            <mxPoint x="114" y="1820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="1820" />
+              <mxPoint x="354" y="1820" />
+              <mxPoint x="294" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-12" value="10.2- Le systéme efface la liste selectionnée de la bdd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="279" y="1800" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="714" y="1850" as="sourcePoint" />
+            <mxPoint x="114" y="1850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="1850" />
+              <mxPoint x="294" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsI6GUUpp1VSREZt7vYy-14" value="11.2- Le systéme affiche un message de validation de l&#39;action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+          <mxGeometry x="259" y="1830" width="340" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
