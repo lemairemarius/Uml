@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T13:32:12.823Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="BQwTEzikgpFlKsT8IHt9" version="15.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-05T13:53:37.971Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="uzSjvsaomq_jWD2fT5yF" version="15.4.1" type="github" pages="4">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
-    <mxGraphModel dx="483" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KHZl_sxIgC_SyZ97ZIo" name="Diagramme de Séquence">
-    <mxGraphModel dx="483" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2374" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QuXPynSJdBeK2pe7UBZv-0" />
         <mxCell id="QuXPynSJdBeK2pe7UBZv-1" parent="QuXPynSJdBeK2pe7UBZv-0" />
@@ -1040,7 +1040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TZz43WJMGBY3ck-pLYf4" name="Diagramme d&#39;activités">
-    <mxGraphModel dx="3054" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2654" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3jANVwwaVyy8cvEXDT-a-0" />
         <mxCell id="3jANVwwaVyy8cvEXDT-a-1" parent="3jANVwwaVyy8cvEXDT-a-0" />
@@ -1754,6 +1754,14 @@
             <mxPoint x="-580" y="677.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D9Z1fNaqyfgjCsTOzrgp" name="Diagramme de classe">
+    <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_IheRakVQkd8HsDPySVQ-0" />
+        <mxCell id="_IheRakVQkd8HsDPySVQ-1" parent="_IheRakVQkd8HsDPySVQ-0" />
       </root>
     </mxGraphModel>
   </diagram>
