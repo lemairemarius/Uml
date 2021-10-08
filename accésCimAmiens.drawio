@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:35:29.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="qxqn_qBG5dFHEW7qF1oM" version="15.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-08T14:04:38.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="AFVmex-cYbGyMeeHVe2R" version="15.4.3" type="github" pages="4">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KHZl_sxIgC_SyZ97ZIo" name="Diagramme de Séquence">
-    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QuXPynSJdBeK2pe7UBZv-0" />
         <mxCell id="QuXPynSJdBeK2pe7UBZv-1" parent="QuXPynSJdBeK2pe7UBZv-0" />
@@ -823,27 +823,27 @@
         <mxCell id="QsI6GUUpp1VSREZt7vYy-14" value="11.2- Le systéme affiche un message de validation de l&#39;action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="259" y="1830" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="114.92" y="3122.285714285714" as="sourcePoint" />
             <mxPoint x="114.50000000000004" y="2080" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="719.92" y="3120" as="sourcePoint" />
             <mxPoint x="719.4999999999999" y="2080" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-2" value="Super Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-2" value="Super Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="100" y="2000" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-3" value="Systéme" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-3" value="Systéme" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="680" y="1990" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="114" y="2100" as="sourcePoint" />
             <mxPoint x="720" y="2100" as="targetPoint" />
@@ -853,10 +853,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-5" value="1-l&#39;acteur lance l&#39;appli" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-5" value="1-l&#39;acteur lance l&#39;appli" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="349" y="2080" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="2130" as="sourcePoint" />
             <mxPoint x="110" y="2130" as="targetPoint" />
@@ -866,10 +866,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-7" value="2- le systeme affiche la page de connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-7" value="2- le systeme affiche la page de connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="320" y="2110" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="2160" as="sourcePoint" />
             <mxPoint x="720" y="2160" as="targetPoint" />
@@ -878,10 +878,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-9" value="3- l&#39;utilisateur entre ses id de connexion et clique sur connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-9" value="3- l&#39;utilisateur entre ses id de connexion et clique sur connexion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="265" y="2140" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="725" y="2200" as="sourcePoint" />
             <mxPoint x="115" y="2200" as="targetPoint" />
@@ -891,10 +891,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JL7pP_3NzLfIdvxkb2b1-11" value="4- Le systéme affiche la page d&#39;accueil avec les différents onglets de menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="JL7pP_3NzLfIdvxkb2b1-11" value="4- Le systéme affiche la page d&#39;accueil avec les différents onglets de menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="225" y="2180" width="410" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rr6O_G7DApA7ywmxLOqX-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="rr6O_G7DApA7ywmxLOqX-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="114" y="2240" as="sourcePoint" />
             <mxPoint x="714" y="2240" as="targetPoint" />
@@ -903,10 +903,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rr6O_G7DApA7ywmxLOqX-1" value="5- L&#39;utilisateur clique sur l&#39;onglet &quot;Gestion cimetiere metropole&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="rr6O_G7DApA7ywmxLOqX-1" value="5- L&#39;utilisateur clique sur l&#39;onglet &quot;Gestion cimetiere metropole&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="259" y="2220" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="2280" as="sourcePoint" />
             <mxPoint x="110" y="2280" as="targetPoint" />
@@ -916,10 +916,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-1" value="6- Le systéme affiche la liste des différents cimetières" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-1" value="6- Le systéme affiche la liste des différents cimetières" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="275" y="2260" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="114" y="2320" as="sourcePoint" />
             <mxPoint x="714" y="2320" as="targetPoint" />
@@ -928,22 +928,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-3" value="7- L&#39;utilisateur peut soit supprimer,créer ou modifier les cimetiéres de la liste" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-3" value="7- L&#39;utilisateur peut soit supprimer,créer ou modifier les cimetiéres de la liste" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="224" y="2300" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-4" value="Même scénario que vue précédement pour la création,modification ou suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-4" value="Même scénario que vue précédement pour la création,modification ou suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="280" y="2370" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-5" value="" style="endArrow=none;html=1;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="2440" as="sourcePoint" />
             <mxPoint x="720" y="2440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-6" value="Scénario secondaire 5.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-6" value="Scénario secondaire 5.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="280" y="2460" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="115" y="2530" as="sourcePoint" />
             <mxPoint x="715" y="2530" as="targetPoint" />
@@ -952,10 +952,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5lXO-5F24tMvu8kwlb7-8" value="5.1- L&#39;utilisateur clique sur l&#39;onglet &quot;Gestion utilisateurs interface&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="S5lXO-5F24tMvu8kwlb7-8" value="5.1- L&#39;utilisateur clique sur l&#39;onglet &quot;Gestion utilisateurs interface&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="255" y="2510" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-0" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="2570" as="sourcePoint" />
             <mxPoint x="110" y="2570" as="targetPoint" />
@@ -965,10 +965,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-1" value="6.1- Le systéme affiche la liste des différents utilisateurs de l&#39;interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-1" value="6.1- Le systéme affiche la liste des différents utilisateurs de l&#39;interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="235" y="2550" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="115" y="2610" as="sourcePoint" />
             <mxPoint x="715" y="2610" as="targetPoint" />
@@ -977,10 +977,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-3" value="7.1- L&#39;utilisateur peut soit supprimer,créer,modifier ou exporter les données des différents utilisateurs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-3" value="7.1- L&#39;utilisateur peut soit supprimer,créer,modifier ou exporter les données des différents utilisateurs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="160" y="2590" width="550" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="2650" as="sourcePoint" />
             <mxPoint x="720" y="2650" as="targetPoint" />
@@ -990,10 +990,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-5" value="8.1- L&#39;utilisateur selectionne des utilisateurs et choisis d&#39;exporter leurs données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-5" value="8.1- L&#39;utilisateur selectionne des utilisateurs et choisis d&#39;exporter leurs données" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="220" y="2630" width="440" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="725" y="2690" as="sourcePoint" />
             <mxPoint x="115" y="2690" as="targetPoint" />
@@ -1003,22 +1003,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-9" value="9.1- Le systéme exporte les données sous le format adéquat .pdf par défaut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-9" value="9.1- Le systéme exporte les données sous le format adéquat .pdf par défaut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="220" y="2670" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-10" value="Même scénario que vue précédement pour la création,modification ou suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-10" value="Même scénario que vue précédement pour la création,modification ou suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="289" y="2720" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-11" value="" style="endArrow=none;html=1;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="2770" as="sourcePoint" />
             <mxPoint x="720" y="2770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-12" value="Scénario secondaire 5.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-12" value="Scénario secondaire 5.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="274" y="2790" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="QuXPynSJdBeK2pe7UBZv-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="115" y="2860" as="sourcePoint" />
             <mxPoint x="715" y="2860" as="targetPoint" />
@@ -1027,13 +1027,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sP7I3NCm1aiPZTiYkKwe-14" value="5.2- L&#39;utilisateur clique sur l&#39;onglet &quot;Activités utilisateurs interface&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="sP7I3NCm1aiPZTiYkKwe-14" value="5.2- L&#39;utilisateur clique sur l&#39;onglet &quot;Activités utilisateurs interface&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="255" y="2840" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pEkOrekIv0OzhZAjEINv-0" value="Même scénario que vue précédement pour la création,modification ou suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="pEkOrekIv0OzhZAjEINv-0" value="Même scénario que vue précédement pour la création,modification ou suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="300" y="2940" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pEkOrekIv0OzhZAjEINv-1" value="Même scénario vue précédement pour l&#39;exportation des infromations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QuXPynSJdBeK2pe7UBZv-1">
+        <mxCell id="pEkOrekIv0OzhZAjEINv-1" value="Même scénario vue précédement pour l&#39;exportation des infromations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="QuXPynSJdBeK2pe7UBZv-1" vertex="1">
           <mxGeometry x="300" y="2893" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -1649,7 +1649,6 @@
               <mxPoint x="-458" y="743" />
               <mxPoint x="-460" y="743" />
               <mxPoint x="-460" y="866" />
-              <mxPoint x="399" y="866" />
             </Array>
             <mxPoint x="-458.42000000000013" y="650" as="sourcePoint" />
           </mxGeometry>
