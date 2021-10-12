@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T09:24:30.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="HSZ5odZlbbx0eGnjBa5L" version="15.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-12T09:24:47.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="souEQvdf7zhK7_pni9Eo" version="15.5.0" type="github" pages="4">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1398,6 +1398,10 @@
           <mxGeometry x="-0.5" relative="1" as="geometry">
             <mxPoint x="70" y="250" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="195" y="180" />
+              <mxPoint x="-235" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wF8FCIu8DwCjG9I9mUZt-2" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3jANVwwaVyy8cvEXDT-a-1" source="wF8FCIu8DwCjG9I9mUZt-0" target="wF8FCIu8DwCjG9I9mUZt-9" edge="1">
@@ -1417,6 +1421,10 @@
             <mxPoint x="-55" y="250" as="targetPoint" />
             <mxPoint x="-20" y="249.66" as="sourcePoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-235" y="180" />
+              <mxPoint x="-458" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wF8FCIu8DwCjG9I9mUZt-6" value="Gestion cimetieres" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="3jANVwwaVyy8cvEXDT-a-1" vertex="1">
@@ -1427,6 +1435,10 @@
             <mxPoint x="-220" y="249.5799999999999" as="targetPoint" />
             <mxPoint x="-160" y="249.5799999999999" as="sourcePoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-458" y="180" />
+              <mxPoint x="-685" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wF8FCIu8DwCjG9I9mUZt-9" value="Onglets" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="3jANVwwaVyy8cvEXDT-a-1" vertex="1">
