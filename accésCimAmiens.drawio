@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T12:50:24.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="yGI-u0KaKBAjlcugXuey" version="15.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-14T07:53:22.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="QGbnq7CeCkHQgHZFxehK" version="15.5.2" type="github" pages="4">
   <diagram id="MA4EWf2XGoRafROJINRz" name="Diagramme d&#39;utilisations">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2374" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,19 +42,19 @@
           <mxGeometry x="170" y="55" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-34" value="Gestion utilisateurs carte cim." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="945" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="945" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-36" value="Activites utilisateurs interface" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="150" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-37" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="140" width="120" height="50" as="geometry" />
+          <mxGeometry x="707" y="170" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-82" value="Modifier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="920" width="90" height="40" as="geometry" />
+          <mxGeometry x="560" y="870" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-83" value="Exporter des données" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="985" width="90" height="40" as="geometry" />
+          <mxGeometry x="590" y="995" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-84" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-97" target="Cb7AMag5DuTGzztELXbn-83" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-87" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="945" width="120" height="50" as="geometry" />
+          <mxGeometry x="700" y="910" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-88" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-82" target="Cb7AMag5DuTGzztELXbn-87" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -85,13 +85,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-90" value="Gestion utilisateurs carte cim." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="192.5" y="600" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="575" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-91" value="Supprimer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="560" width="90" height="40" as="geometry" />
+          <mxGeometry x="590" y="555" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-92" value="Rechercher" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="945" width="120" height="50" as="geometry" />
+          <mxGeometry x="270" y="945" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-93" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-34" target="Cb7AMag5DuTGzztELXbn-92" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -108,10 +108,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-96" value="Individu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="910" width="90" height="40" as="geometry" />
+          <mxGeometry x="410" y="905" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-97" value="Groupe&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="980" width="90" height="40" as="geometry" />
+          <mxGeometry x="410" y="990" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-98" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-92" target="Cb7AMag5DuTGzztELXbn-97" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -128,13 +128,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-100" value="Rechercher" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="600" width="120" height="50" as="geometry" />
+          <mxGeometry x="270" y="575" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-101" value="Individu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="560" width="90" height="40" as="geometry" />
+          <mxGeometry x="425" y="555" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-102" value="Groupe&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="645" width="90" height="40" as="geometry" />
+          <mxGeometry x="425" y="620" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-103" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-5" target="Cb7AMag5DuTGzztELXbn-90" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -165,10 +165,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-108" value="Supprimer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="640" width="90" height="40" as="geometry" />
+          <mxGeometry x="580" y="620" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-109" value="Créer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="510" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-110" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-90" target="Cb7AMag5DuTGzztELXbn-109" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-114" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="505" width="120" height="50" as="geometry" />
+          <mxGeometry x="690" y="505" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cb7AMag5DuTGzztELXbn-115" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cb7AMag5DuTGzztELXbn-109" target="Cb7AMag5DuTGzztELXbn-114" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
